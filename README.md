@@ -1,5 +1,5 @@
 # FuelPredictor
-Created a model to predict vehicle fuel consumption using regression models and real-world automotive data.
+Trained to predict vehicle fuel consumption using regression models and real-world automotive data.
 # ⛽ Vehicle Fuel Consumption Prediction
 
 A machine learning project to predict the fuel consumption of vehicles using regression models. The project is designed using Jupyter Notebooks and includes training, model loading, and real-time predictions.
